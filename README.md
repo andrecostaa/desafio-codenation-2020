@@ -1,0 +1,1 @@
+# desafio-codenation-2020. Outro desafio para mim foi solucionar este problema com nodeJS, onde nao tenho dominio. #
